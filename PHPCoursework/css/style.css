@@ -1,0 +1,7 @@
+html {
+  	 background-color: #ffffff;
+}
+body {
+ 	background: rgb(255,255,255);
+	background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(51,135,231,1) 100%);
+}
