@@ -1,3 +1,5 @@
+Run Xampp with MySQL and Apache
+Nagivate to http://localhost/PHPCoursework/login.php
 Run this SQL Query to create the table on a database called 'eoj'
 
 CREATE TABLE `users` (
